@@ -1,1 +1,1 @@
-# Homework-Interview-Knowledge-Graph-based-Research-Paper-Recommendation-Exploration-Tool
+# KU-HW-Interview-KG-Research-Tool
